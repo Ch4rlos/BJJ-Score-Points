@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BJJ-Java-App</string>
+    <string name="competidor_1">Competidor 1</string>
+    <string name="score_1">0</string>
+    <string name="competidor_2">Competidor 2</string>
+    <string name="score_2">0</string>
+    <string name="UnPuntaMas">+</string>
+    <string name="DosPuntosMenos">-</string>
+    <string name="DosPuntosMas">+</string>
+    <string name="_1_point">1 Point</string>
+    <string name="_2_point">2 Point</string>
+    <string name="_00_00">00:00</string>
+    <string name="stop">Stop</string>
+    <string name="start">START</string>
+    <string name="UnPuntoMenos">-</string>
+</resources>
